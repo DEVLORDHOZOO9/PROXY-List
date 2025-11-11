@@ -37,3 +37,36 @@ You can Also Use My Tool [![SOCKER](https://img.shields.io/badge/TheSpeedX-SOCKE
 
 ---
 Made with 🐍 by [![GitHub](https://img.shields.io/badge/GitHub-TheSpeedX-red)](https://github.com/TheSpeedX)
+
+
+tiktok_pro.js
+socks4.txt    (berisi proxy socks4)
+socks5.txt    (berisi proxy socks5)  
+http.txt      (berisi proxy http)
+
+✨ FITUR BARU:
+🎨 TikTok ASCII Art - Tampilan keren
+
+🔴 Garis Merah/Hitam - UI yang stylish
+
+📁 Load Proxy dari File - socks4.txt, socks5.txt, http.txt
+
+🌈 Warna-warni - Output lebih menarik
+
+🔄 Auto Proxy Testing - Test semua proxy sebelum digunakan
+
+📊 Progress Bar - Lihat progress testing proxy
+
+Sekarang tinggal isi file proxy Anda dan run! 🚀
+
+✨ NEW FEATURES:
+
+🎨 TikTok ASCII Art - Cool look
+
+🔴 Red/Black Lines - Stylish UI
+
+📁 Load Proxy from File - socks4.txt, socks5.txt, http.txt
+
+🌈 Colorful - More attractive output
+
+🔄 Auto 
